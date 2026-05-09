@@ -7,7 +7,8 @@ Fight 1v1 locally with a friend using the martial techniques: kicking and punchi
 
 All sounds of the players and countdown voice is created from a 3 second clip from South park: https://youtu.be/3RhxyHMs-w8?t=75 
 
-
+Watch a fight: 
+https://youtu.be/-EHxmOlJUIg
 
 Contains: 
   - Menu screen
